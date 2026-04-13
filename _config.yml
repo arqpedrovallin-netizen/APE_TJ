@@ -1,0 +1,21 @@
+# GitHub Pages Configuration
+
+title: APE_TJ
+
+# URL of the site
+url: "https://arqpedrovallin-netizen.github.io/APE_TJ"
+
+# Set the theme for your site
+theme: minima
+
+# Optional settings
+# set the maximum number of posts displayed on the homepage
+paginate: 5
+
+# Enable Github Pages
+plugins:
+  - jekyll-feed
+
+# Configuration for the feed
+feed:
+  path: feed.xml
